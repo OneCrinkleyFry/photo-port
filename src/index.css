@@ -293,13 +293,3 @@ a {
 .navActive {
   color: var(--secondary);
 }
-
-#contact-form label {
-  visibility: hidden;
-  display: none;
-}
-
-#contact-form input::placeholder, #contact-form textarea::placeholder {
-  font-family: 'Poiret One', cursive;
-  font-weight: 600;
-}
